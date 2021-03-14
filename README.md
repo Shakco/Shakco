@@ -1,5 +1,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shakco&show_icons=true&theme=react)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shakco&layout=compact)](https://github.com/Shakco/github-readme-stats)
+
 
 
 <!--
